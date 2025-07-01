@@ -13,6 +13,6 @@ Steps to reproduce results:
 3) "conda activate fpl-2025-runtime-pred"
 4) Unzip data.zip in place
 5) Unzip models.zip in place
-5) python3 src/fpl2025.py
+6) "python3 src/fpl2025.py"
 
 
